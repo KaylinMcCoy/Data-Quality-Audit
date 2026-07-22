@@ -1,4 +1,4 @@
-# Data Quality Governance: Retail Audit & Remediation Report
+# Data Quality Governance: Retail Audit & Remediation Report ###
 
 ## Executive Summary
 I conducted a data quality audit on retail sales data and identified 3,829 missing or blank values across customer, product, and sales tables. Since these records are tied to required business fields (customer IDs, product details, emails) that cannot be deleted, and I lacked access to correct values, I implemented a consistent placeholder strategy to maintain referential integrity and enable future tracking. This approach allows us to identify and potentially recover missing data while ensuring operational continuity.
