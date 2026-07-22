@@ -22,7 +22,7 @@ This project was a data quality audit on the Retail data which includes the foll
 View the interactive dashboard here: https://public.tableau.com/shared/XSK2FXMJD?:display_count=n&:origin=viz_share_link
 
 ## Report
-Read the full governance report: https://github.com/KaylinMcCoy/Data-Quality-Audit/edit/main/README.md#:~:text=Data_Quality_Governance_Report
+Read the full governance report: https://github.com/KaylinMcCoy/Data-Quality-Audit/blob/4a089b1732ed17ae3519e48cbefd85c2c2a0766d/Data_Quality_Governance_Report
 
 ## How to Use This Repository
    1. Review the SQL scripts in sql_scripts/ to see the exploration and cleaning approach
